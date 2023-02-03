@@ -1,23 +1,66 @@
 
-## Our Goal
+# Tuetok - Tutor/Book Management App
 
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
+## Project Overview
+Tuetok is a mobile application developed to address a specific need within the university community. The app empowers struggling students by providing them with a platform for buying and selling used books as well as browsing for tutors. The app allows students to register, sign up, upload books for sale, and elect themselves as tutors. The app was designed to be user-friendly and efficient. Through this project, we demonstrated our ability to effectively collaborate and communicate to deliver a functional and successful application.
 
+## Features
+- Registration System
+- Register, Login, Edit Profile, Post book, Post for Tutor 
+- CRUD functionality for Tutor and book posts
+- Group chat feature
 
-## What you will create
+## Technologies
+- Flutter
+- Dart
+- Firebase Database
 
-We’re going to build a modern messaging app where users can sign up and log in to chat.
+## Demo
 
+<h3 align="center"> Design Phase </h3>
+<div align="center">
+<img src="images/documentationbrief.png" width=868 height=453 />
+</div>
 
-## What you will learn
+<h3 align="center"> Splash & Onboarding Screens </h3>
+<div align="center">
+<img src="images/splashscreen.png" width=339 height=588 />
+<img src="images/onboardingscreen1.png" width=339 height=588 />
+</div>
 
-- How to incorporate Firebase into your Flutter projects.
-- How to use Firebase authentication to register and sign in users.
-- How to create beautiful animations using the Flutter Hero widget.
-- How to create custom aniamtions using Flutter's animation controller. 
-- Learn all about mixins and how they differ from superclasses.
-- Learn about Streams and how they work.
-- Learn to use ListViews to build scrolling views.
-- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+<h3 align="center"> Cont'd Onboarding Screens </h3>
+<div align="center">
+<img src="images/onboardingscreen2.png" width=339 height=588 />
+<img src="images/onboardingscreen3.png" width=339 height=588 />
+</div>
 
+<h3 align="center"> Sign In & Profile Screens </h3>
+<div align="center">
+<img src="images/signinscreen.png" width=339 height=588 />
+<img src="images/profilescreen2.png" width=339 height=588 />
+</div>
+
+<h3 align="center"> Register Screens </h3>
+<div align="center">
+<img src="images/registerscreen.png" width=339 height=588 />
+<img src="images/registerscreenfilled-out.png" width=339 height=588 />
+</div>
+
+<h3 align="center"> Browse Items & Item Details </h3>
+<div align="center">
+<img src="images/registerscreen.png" width=339 height=588 />
+<img src="images/registerscreenfilled-out.png" width=339 height=588 />
+</div>
+
+<h3 align="center"> Browse Items & Item Details </h3>
+<div align="center">
+<img src="images/itemsscreen2.png" width=339 height=588 />
+<img src="images/itemdetails.png" width=339 height=588 />
+</div>
+
+<h3 align="center"> Product Info & My Posts </h3>
+<div align="center">
+<img src="images/productinfoscreen2.png" width=339 height=588 />
+<img src="images/itemsscreen.png" width=339 height=588 />
+</div>
 
