@@ -1,5 +1,5 @@
 
-# Tuetok - Tutor/Book Management App
+# Tuetok - Tutor/Book Management App (Oct. 2020 – Nov. 2020)
 
 ## Project Overview
 Tuetok is a mobile application developed to address a specific need within the university community. The app empowers struggling students by providing them with a platform for buying and selling used books as well as browsing for tutors. The app allows students to register, sign up, upload books for sale, and elect themselves as tutors. The app was designed to be user-friendly and efficient. Through this project, we demonstrated our ability to effectively collaborate and communicate to deliver a functional and successful application.
